@@ -24,4 +24,4 @@
 
 * :beetle: Me encanta descubrir buggs y embarcarme controles de calidad de aplicaciones. 
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Fermin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
