@@ -14,6 +14,13 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
 
+<div id="header" align="left">
+  ### man_technologist: Sobre mí :
+  Apasionada del diseño web y disfrutando de una transición a QA Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
 
-## SKILLS
-[ (https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)]
+* :seedling: Estoy estudiando :blue_book: QA Engineer y conociendo :computer: lenguaje SQL y Python, sin dejar de lado el diseño web.
+
+* :heartbeat: Me encanta descubrir buggs y embarcarme controles de calidad de aplicaciones. 
+* 
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
