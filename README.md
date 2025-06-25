@@ -13,3 +13,7 @@
 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
+
+
+## SKILLS
+[ (https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)]
