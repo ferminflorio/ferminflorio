@@ -40,7 +40,7 @@
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="CSS"/>
   </a>
-    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="Bootstrap"/>
+    <img decoding="async" src="https://img.shields.io/badge/Bootstrap-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="Bootstrap"/>
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
