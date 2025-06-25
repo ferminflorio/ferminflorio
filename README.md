@@ -4,12 +4,12 @@
 
 ## Hi! I'm Fermin Florio!👋
 
-- 🔭 I’m currently working as a freelancer in landing pages and artistic web portfolios as a Jr Web Developer.
-- 🌱 I’m currently learning QA Engineer (finishing my bootcamp in 1 month!)
-- 👯 I’m looking to collaborate on Software Testing.
-- 💬 Ask me about my travel life and multifacetic job areas i've been in.
-- 📫 How to reach me: ferminflorio@gmail
-- ⚡ Fun fact: I'm a musician and worked as a streaming and radio producer for a long time.
+- 🔭 Actualmente trabajo como freelancer en landing pages y portfolios web artísticos como Desarrollador Web Junior.
+- 🌱 Actualmente estoy aprendiendo para ser Ingeniero de QA (¡termino mi bootcamp en un mes!).
+- 👯 Estoy buscando colaborar en pruebas de software.
+- 💬 Pregúntame sobre mi vida viajera y las múltiples áreas laborales en las que he trabajado, soy una persona multifacetica.
+- 📫 Como contactarme?: ferminflorio@gmail
+- ⚡ Dato curioso: Soy músico y trabajé durante mucho tiempo como productor de radio y streaming.
 
 
 
