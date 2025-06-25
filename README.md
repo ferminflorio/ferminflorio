@@ -25,3 +25,5 @@
 * :bug: Me encanta descubrir buggs y embarcarme controles de calidad de aplicaciones. 
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Fermin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
+
+### :hammer_and_wrench: Lenguajes y herramientas :
