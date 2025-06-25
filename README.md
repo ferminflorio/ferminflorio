@@ -2,7 +2,7 @@
   <img decoding="async" src="https://github.com/ferminflorio/ferminflorio/blob/main/Banner%20Github.png" width="800"/>
 </div>
 
-## Hola! Soy Fermin Florio!👋
+## Hi! I'm Fermin Florio!👋
 
 - 🔭 I’m currently working as a freelancer in landing pages and artistic web portfolios as a Jr Web Developer.
 - 🌱 I’m currently learning QA Engineer (finishing my bootcamp in 1 month!)
