@@ -16,7 +16,7 @@
 
 <div id="header" align="left">
   
-  ### : man_technologist: Sobre mí :
+  ### :man_technologist: Sobre mí :
   Apasionado  del diseño web y disfrutando de una transición a QA Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
 
