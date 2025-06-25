@@ -58,7 +58,9 @@
  
 </div>
 
-### :closed_book: Informe de Errores JIRA (Bootcamp) :
+### :closed_book: Informe de Errores (Bootcamp) 
 
 [![](https://img.shields.io/badge/JIRA-0077B5?style=for-the-badge&logo=JIRA&logoColor=white)](https://ferminflorio.atlassian.net/sr/jira.issueviews:searchrequest-printable/temp/SearchRequest.html?jqlQuery=ORDER+BY+created+DESC&atl_token=7749ff381afcbbc0ef776c8fd5b22b216fbb72a7_lin&tempMax=1000)
+
+
 
