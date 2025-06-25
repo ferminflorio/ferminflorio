@@ -22,6 +22,6 @@
 
 * :seedling: Estoy estudiando :blue_book: QA Engineer y conociendo :computer: lenguaje SQL y Python, sin dejar de lado el diseño web.
 
-* :heartbeat: Me encanta descubrir buggs y embarcarme controles de calidad de aplicaciones. 
+* :beetle: Me encanta descubrir buggs y embarcarme controles de calidad de aplicaciones. 
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
