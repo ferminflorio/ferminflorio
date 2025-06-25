@@ -39,13 +39,21 @@
 
 <div id="header" align="left">
   
- <img decoding="async" src="https://img.shields.io/badge/CSS3-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img decoding="async" src="https://img.shields.io/badge/HTML-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+   <img decoding="async" src="https://img.shields.io/badge/CSS3-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/SAAS-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
    <img decoding="async" src="https://img.shields.io/badge/BOOTSTRAP-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/ANDROID_STUDIO-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+   <img decoding="async" src="https://img.shields.io/badge/ANDROID_STUDIO-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
    <img decoding="async" src="https://img.shields.io/badge/SQL-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/API_TESTING-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+   <img decoding="async" src="https://img.shields.io/badge/ANDROID_STUDIO-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
 </div>
 
