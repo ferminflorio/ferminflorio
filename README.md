@@ -12,8 +12,12 @@
 - ⚡ Fun fact: I'm a musician and worked as a streaming and radio producer for a long time.
 
 ---
+
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
+
 ---
+
 <div id="header" align="left">
   
   ### :man_technologist: Sobre mí :
@@ -25,5 +29,12 @@
 * :bug: Me encanta descubrir buggs y embarcarme controles de calidad de aplicaciones. 
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Fermin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferminflorio/)
+
+  
 ---
+
+
 ### :hammer_and_wrench: Lenguajes y herramientas :
+
+
+
