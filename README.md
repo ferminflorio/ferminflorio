@@ -9,5 +9,5 @@
 - 👯 I’m looking to collaborate on Software Testing.
 - 💬 Ask me about my travel life and multifacetic job areas i've been in.
 - 📫 How to reach me: ferminflorio@gmail
-- ⚡ Fun fact: Im a musician and worked as a streaming and radio producer for a long time.
+- ⚡ Fun fact: I'm a musician and worked as a streaming and radio producer for a long time.
 
