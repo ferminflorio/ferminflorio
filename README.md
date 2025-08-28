@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/ferminflorio/ferminflorio/blob/main/Banner%20Github.png" width="1000"/>
+  <img decoding="async" src="https://github.com/ferminflorio/ferminflorio/blob/main/banner.png" width="1000"/>
 </div>
 
 ## Hi! I'm Fermin Florio!👋
