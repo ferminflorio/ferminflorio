@@ -23,7 +23,7 @@
   
   ### :man_technologist: Sobre mí :
   Apasionado  del diseño web y disfrutando de una transición a QA Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-* :telescope: Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:
+* :telescope: Actualmente estoy trabajando en recepcion de un club social pero necesito nuevos retos :muscle:
 
 * :seedling: Estoy estudiando :blue_book: QA Engineer y conociendo :computer: lenguaje SQL y Python, sin dejar de lado el diseño web.
 
