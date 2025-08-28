@@ -8,7 +8,7 @@
 - 🌱 Actualmente estoy aprendiendo para ser Ingeniero de QA (¡termino mi bootcamp en un mes!).
 - 👯 Estoy buscando colaborar en pruebas de software.
 - 💬 Pregúntame sobre mi vida viajera y las múltiples áreas laborales en las que he trabajado, soy una persona multifacetica.
-- 📫 Como contactarme?: ferminflorio@gmail
+- 📫 Como contactarme?: ferminflorio@gmail.com
 - ⚡ Dato curioso: Soy músico y trabajé durante mucho tiempo como productor de radio y streaming.
 
 
