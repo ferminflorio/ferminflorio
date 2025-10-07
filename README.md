@@ -5,11 +5,11 @@
 ## Hi! I'm Fermin Florio!👋
 
 - 🔭 Actualmente trabajo como freelancer en landing pages y portfolios web artísticos como Desarrollador Web Junior.
-- 🌱 Actualmente estoy aprendiendo para ser Ingeniero de QA (¡termino mi bootcamp en un mes!).
-- 👯 Estoy buscando colaborar en pruebas de software.
+- 🌱 Actualmente estoy aprendiendo para ser QA Tester (¡termino mi bootcamp en un mes!).
+- 👯 Estoy buscando colaborar en pruebas de software y desarrollo front-end.
 - 💬 Pregúntame sobre mi vida viajera y las múltiples áreas laborales en las que he trabajado, soy una persona multifacetica.
 - 📫 Como contactarme?: ferminflorio@gmail.com
-- ⚡ Dato curioso: Soy músico y trabajé durante mucho tiempo como productor de radio y streaming.
+- ⚡ Dato curioso: Soy músico cantautor, amante del groove!
 
 
 
@@ -54,6 +54,8 @@
  <img decoding="async" src="https://img.shields.io/badge/API_TESTING-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
    <img decoding="async" src="https://img.shields.io/badge/ANDROID_STUDIO-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+  <img decoding="async" src="https://img.shields.io/badge/PYTHON-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
  
 </div>
